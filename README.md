@@ -25,12 +25,6 @@ Skills: Android Studio / Java / Bootstrap / ReactJs / REACT / JS / HTML / CSS
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyam3000" alt="shyam3000" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Html / Css / Bootstrap / Reactjs / Java / Firebase**
-
-- 📫 How to reach me **shyam92849@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shyam-sharma-b3b336192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyam-sharma-b3b336192" height="30" width="40" /></a>
