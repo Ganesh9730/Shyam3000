@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-<img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" >
+<img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" width='100%' >
 
 Skills: Android Studio / Java / Bootstrap / ReactJs / REACT / JS / HTML / CSS
 
