@@ -18,6 +18,4 @@
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyam3000&show_icons=true&locale=en" alt="shyam3000" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyam3000&show_icons=true&locale=en&layout=compact" alt="shyam3000" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam3000&" alt="shyam3000" /></p>
-
-<p></p>
+</p>
