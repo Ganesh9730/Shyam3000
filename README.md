@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Shyam Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 Skills: Android Studio / Java / Bootstrap / ReactJs / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Android Development 
