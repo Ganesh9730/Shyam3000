@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shyam Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" width='100%' >
+<img src="https://magenticians.com/wp-content/uploads/2016/11/How-you-can-hire-a-magento-developer-Banner.jpg" width='100%' >
 
 
 
