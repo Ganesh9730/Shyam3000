@@ -1,4 +1,4 @@
-![GitHub metrics](https://metrics.lecoq.io/Shyam3000)  
+
 
 ![Profile views](https://gpvc.arturio.dev/Shyam3000)  
 *********************************************************
@@ -28,3 +28,4 @@ Skills: Android Studio / Java / Bootstrap / ReactJs / REACT / JS / HTML / CSS
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyam3000&show_icons=true&locale=en" alt="shyam3000" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyam3000&show_icons=true&locale=en&layout=compact" alt="shyam3000" />
 </p>
+![GitHub metrics](https://metrics.lecoq.io/Shyam3000)  
