@@ -8,8 +8,7 @@
 - 🔭 I’m currently working on Android Development 
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about Java / Firebase / Html / Android App 
-- 📫 How to reach me: shyam92849@gmail.com 
-- - 📫 How to reach me **shyam92849@gmail.com**
+- 📫 Reach : shyam92849@gmail.com
 
 - Skills: Android Studio / Java / Bootstrap / ReactJs / REACT / JS / HTML / CSS
 
