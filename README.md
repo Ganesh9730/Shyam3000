@@ -14,5 +14,3 @@ Skills: Html5 / CSS/ Bootstrap / Java / Python / Reactjs / Wordpress
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shyam3000)
 
 ![GitHub metrics](https://metrics.lecoq.io/Shyam3000)  
-
-![Profile views](https://gpvc.arturio.dev/Shyam3000)  
