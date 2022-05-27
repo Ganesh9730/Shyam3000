@@ -25,6 +25,7 @@
 <a href="https://instagram.com/shyamsharma928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shyamsharma928" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyam3000&show_icons=true&locale=en" alt="shyam3000" />
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyam3000&show_icons=true&locale=en" alt="shyam3000" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyam3000&show_icons=true&locale=en&layout=compact" alt="shyam3000" />
 </p>
+ -->
