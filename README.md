@@ -1,6 +1,4 @@
-<head>
-  <meta name="google-site-verification" content="I-b35dzKjDmYCBzlh9MfZ_P2ZbtqBcizfOiP3fx1AI4" />
-</head>
+
 <h1 align="center">Hi 👋, I'm Shyam Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
