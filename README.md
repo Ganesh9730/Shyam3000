@@ -12,7 +12,7 @@
 
 - Skills: Android Studio / Java / Bootstrap / ReactJs / REACT / JS / HTML / CSS
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shyam3000)  
+//![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shyam3000)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam3000&label=Profile%20views&color=0e75b6&style=flat" alt="shyam3000" /> </p>
 
